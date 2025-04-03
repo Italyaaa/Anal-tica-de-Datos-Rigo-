@@ -5,6 +5,6 @@ B= 680
 C=367
 
 def multi():
-    print(a*b*c)
+    print(A*B*C)
 
 multi()
